@@ -50,18 +50,26 @@
 
 - 1. Install git in your local machine.
 - 2. Create a new empty folder.
-- 3. Clone the code into this created folder.
-  Clone the repo
+- 3. Fork the project into your git hub account.
+- 4. Clone the code into this created folder.
+
    ```sh
-   git clone https://github.com/your_username_/chat-box.git
+   git clone https://github.com/your_username_/Mapty.git
    ```
 
 ### Requirements
 
-Firstly you should install the Node and Git in your local system to run react application locally.
+You should install a code editor and git.
 
-[Install Node](https://nodejs.org/en/)
+[Install CodeEditor](https://code.visualstudio.com/)
 <br/>
 [Install Git](https://git-scm.com/downloads)
 ## How to set up a local server?
+- Enable Live-Server code extension in the code editor. This will directly update the changes we made to the code without saving the code.
 ### How to use this application
+- Open the HTML in your desired browser.
+- Firstly you will get the current location of your directly without doing anything.
+- Just use the mouse to place a point on the map.
+- Now you should give the data like time, cadence, cycling or running, distance as inputs.
+- This application is more useful for exercise.
+
