@@ -72,4 +72,5 @@ You should install a code editor and git.
 - Just use the mouse to place a point on the map.
 - Now you should give the data like time, cadence, cycling or running, distance as inputs.
 - This application is more useful for exercise.
-
+<br/>
+Link to visit the application: https://dazzling-clarke-d412ed.netlify.app
